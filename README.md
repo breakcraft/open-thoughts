@@ -100,11 +100,7 @@ The recipe is outlined below:
 
 More instructions are in [open_thoughts/README.md](open_thoughts/README.md).
 
-
-# Training and Evaluation
-Training and evaluation code coming soon.
-
-# Links
+# Resources
 - 📊 [Open Thoughts Launch Blog Post](https://www.open-thoughts.ai/blog/launch)
 - 🧠 [OpenThoughts-114k dataset](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k)
 - 🧠 [OpenThoughts-Unverified-173k dataset](https://huggingface.co/datasets/open-thoughts/OpenThoughts-Unverified-173k)
@@ -114,6 +110,13 @@ Training and evaluation code coming soon.
 - 🧠 [Bespoke-Stratos-17k dataset](https://huggingface.co/datasets/bespokelabs/Bespoke-Stratos-17k)
 - 🤖 [Bespoke-Stratos-32B model](https://huggingface.co/bespokelabs/Bespoke-Stratos-32B)
 - 🤖 [Bespoke-Stratos-7B model](https://huggingface.co/bespokelabs/Bespoke-Stratos-7B)
+
+# Community
+- https://huggingface.co/datasets/SmallDoge/SmallThoughts https://github.com/SmallDoges/small-thoughts
+- https://github.com/huggingface/open-r1 https://huggingface.co/datasets/open-r1/OpenThoughts-114k-Code_decontaminated https://huggingface.co/datasets/open-r1/OpenThoughts-114k-math
+- https://huggingface.co/datasets/simplescaling/s1K-1.1
+- https://huggingface.co/datasets/bethgelab/CuratedThoughts
+
 
 # Citation
 ```

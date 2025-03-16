@@ -117,6 +117,7 @@ More instructions are in [open_thoughts/README.md](open_thoughts/README.md).
 - https://huggingface.co/datasets/simplescaling/s1K-1.1
 - https://huggingface.co/datasets/bethgelab/CuratedThoughts
 - https://arxiv.org/abs/2502.07374
+- trained on openthoughts https://huggingface.co/qihoo360/TinyR1-32B-Preview
 
 
 # Citation

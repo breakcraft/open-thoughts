@@ -116,6 +116,7 @@ More instructions are in [open_thoughts/README.md](open_thoughts/README.md).
 - https://github.com/huggingface/open-r1 https://huggingface.co/datasets/open-r1/OpenThoughts-114k-Code_decontaminated https://huggingface.co/datasets/open-r1/OpenThoughts-114k-math
 - https://huggingface.co/datasets/simplescaling/s1K-1.1
 - https://huggingface.co/datasets/bethgelab/CuratedThoughts
+- https://arxiv.org/abs/2502.07374
 
 
 # Citation
